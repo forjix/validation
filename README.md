@@ -86,4 +86,4 @@ $validator = new Validator($data, [
 
 ## License
 
-MIT
+GPL-3.0
